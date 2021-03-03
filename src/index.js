@@ -1,4 +1,4 @@
-import './css/styles.css';
+import './css/style.css';
 
 //==================== MENU MARKUP CREATING ====================
 import menuElemsTmpl from './template/menu-elems.hbs';
